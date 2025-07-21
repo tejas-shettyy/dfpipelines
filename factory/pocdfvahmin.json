@@ -1,0 +1,9 @@
+{
+	"name": "pocdfvahmin",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d354463-abdd-44ba-a157-d37f7fcae786",
+		"tenantId": "fe25bbb2-ecbd-4f08-9e10-61fd3d7be869"
+	}
+}
