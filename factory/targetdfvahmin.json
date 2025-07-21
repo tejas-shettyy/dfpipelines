@@ -1,0 +1,9 @@
+{
+	"name": "targetdfvahmin",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bbdabc6-de46-4049-9cf1-1ac71681a4e7",
+		"tenantId": "fe25bbb2-ecbd-4f08-9e10-61fd3d7be869"
+	}
+}
